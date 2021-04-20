@@ -16,7 +16,7 @@ My page is live on github!
 
  ### My portfolio
 
- <img src="./assets/images/portfolio.png" alt="portfolio page displaying projects">
+ <img src="./assets/images/updated-portfolio.png" alt="portfolio page displaying projects">
 
  
 
