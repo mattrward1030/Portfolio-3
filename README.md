@@ -12,7 +12,7 @@ To install this repo on your local drive you would have to clone the ssh key fro
 
 My page is live on github!
 
- https://mattrward1030.github.io/Portfolio/
+ https://mattrward1030.github.io/Portfolio-3/
 
  ### My portfolio
 
